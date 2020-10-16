@@ -1,3 +1,3 @@
-# online-shopping
+# SIN2002 Structured Programming: Online-shopping platform by C++
 
-Assignment
+Write a C++ function program that represents an online system for head-to-toes school uniform shopping. Computer will display the company name, types of school uniform and the price list. User must enter his/her name to that shopping list. Next the user must select types of uniform and enter number of quantity he/she wishes to buy. The main( ) function will call the function Additional( ) where with additional fees, the user can select option for standard or express delivery where their expected date of delivery will be displayed on the screen. Finally the main( ) function will call the function Payment( ) where total cost to be paid by the user added with 10% service charge will be computed and printed in an output file.
